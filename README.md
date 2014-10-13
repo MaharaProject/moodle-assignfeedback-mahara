@@ -9,7 +9,7 @@ This feedback plugin offers a purely supporting role to its [submission sibling]
 - Moodle 2.6+
 - PHP 5.3+
 - [Fully integrated Moodle -> Mahara instances][2]
-- [Catalyst IT's distribution of the Mahara assignment submission plugin][1]
+- [The "merged" version of the Mahara assignment submission plugin][1]
 
 ## Installation
 
@@ -67,6 +67,6 @@ The upgrade to Moodle 2.0 and 2.1 was written by Aaron Wells at Catalyst IT, and
 - NetSpot
 - Pukunui Technology
 
-[1]: https://github.com/catalyst/moodle-assignsubmission_mahara/tree/moodle26-merged
+[1]: https://github.com/MaharaProject/moodle-assignsubmission_mahara/tree/moodle26-merged
 [2]: http://manual.mahara.org/en/1.9/mahoodle/mahoodle.html
 [3]: https://github.com/fellowapeman/moodle-local_mahara
