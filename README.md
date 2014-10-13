@@ -20,7 +20,7 @@ plugin in one of two ways:
 2. Execute the folowing command:
 
 ```
-> git clone git@github.com:catalyst/moodle-assignfeedback_mahara.git {Moodle_Root}/mod/assign/feedback/mahara
+> git clone git@github.com:MaharaProject/moodle-assignfeedback_mahara.git {Moodle_Root}/mod/assign/feedback/mahara
 ```
 
 The remainder of the installation can be achieved within Moodle by clicking on the _Notifications_ link.
