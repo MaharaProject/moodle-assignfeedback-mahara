@@ -36,12 +36,12 @@ If you are upgrading from an earlier version of this plugin, you will need to do
 
 ## License
 
-The Moodle assign-mahara-feedback plugin is free software: you can redistribute it and/or modify
+The Mahara assignment feedback plugin is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-The Moodle assign-mahara-feedback plugin is distributed in the hope that it will be useful,
+The Mahara assignment feedback plugin is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
@@ -66,6 +66,6 @@ The upgrade to Moodle 2.0 and 2.1 was written by Aaron Wells at Catalyst IT, and
 - NetSpot
 - Pukunui Technology
 
-[1]: https://github.com/MaharaProject/moodle-assignsubmission_mahara/tree/moodle26-merged
+[1]: https://github.com/MaharaProject/moodle-assignsubmission_mahara
 [2]: http://manual.mahara.org/en/1.9/mahoodle/mahoodle.html
 [3]: https://github.com/fellowapeman/moodle-local_mahara
