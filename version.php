@@ -19,7 +19,7 @@ defined('MOODLE_INTERNAL') || die();
 $plugin->version = 2014111000;
 $plugin->requires = 2014111000;
 $plugin->component = 'assignfeedback_mahara';
-$plugin->maturity = MATURITY_BETA;
+$plugin->maturity = MATURITY_STABLE;
 $plugin->release = '1.0-mdl2.8';
 
 $plugin->dependencies = array(
