@@ -74,6 +74,17 @@ Subsequent updates to the plugin were implemented by Aaron Wells at Catalyst IT,
  - University of Brighton
  - Canberra University
 
+## License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 or later of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
 [1]: https://github.com/MaharaProject/moodle-assignsubmission_mahara
 [2]: http://manual.mahara.org/en/1.9/mahoodle/mahoodle.html
 [3]: https://github.com/fellowapeman/moodle-local_mahara
