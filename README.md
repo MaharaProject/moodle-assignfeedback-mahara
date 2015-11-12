@@ -4,6 +4,8 @@ This feedback plugin offers a purely supporting role to its [submission sibling]
 
 (Without this plugin, Mahara pages that are submitted through the Moodle submission plugin, remain permanently locked in Mahara, to provide a grading audit trail.)
 
+**The plugin has been deprecated and not required for Moodle 2.7 and above. Functionlity if this plugin has been added into  [assignsubmission_mahara][1] plugin version 1.2-mdl2.7+.**
+
 ## Requirements
 
 - Moodle 2.6
@@ -50,7 +52,7 @@ For a copy of the GNU General Public License see http://www.gnu.org/licenses/.
 
 ## Credits
 
-The original Moodle 1.9 version of the assignment submission pluginwas funded through a grant from the New Hampshire Department of Education to a collaborative group of the following New Hampshire school districts:
+The original Moodle 1.9 version of the assignment submission plugin was funded through a grant from the New Hampshire Department of Education to a collaborative group of the following New Hampshire school districts:
 
  - Exeter Region Cooperative
  - Windham
